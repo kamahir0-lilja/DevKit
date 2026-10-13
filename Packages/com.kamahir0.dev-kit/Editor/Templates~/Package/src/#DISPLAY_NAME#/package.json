@@ -1,5 +1,5 @@
 {
-    "name": "#PACKAGE_NAME#",
+    "name": "com.kamahir0.#PACKAGE_NAME#",
     "displayName": "#DISPLAY_NAME#",
     "version": "0.1.0",
     "unity": "#UNITY_VERSION#",

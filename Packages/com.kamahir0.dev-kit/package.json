@@ -1,0 +1,20 @@
+{
+  "name": "com.kamahir0.dev-kit",
+  "displayName": "Lilja DevKit",
+  "version": "0.1.0",
+  "unity": "6000.0",
+  "author": {
+    "name": "kamahir0",
+    "url": "https://github.com/kamahir0"
+  },
+  "description": "Development toolkit, package creator, and templates for Lilja Unity packages.",
+  "documentationUrl": "https://github.com/kamahir0/Lilja/blob/main/lilja-packages/lilja.dev-kit/README.md",
+  "licensesUrl": "https://github.com/kamahir0/Lilja/blob/main/LICENSE",
+  "changelogUrl": "https://github.com/kamahir0/Lilja/blob/main/lilja-packages/lilja.dev-kit/CHANGELOG.md",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kamahir0/DevKit.git",
+    "directory": "Packages/com.kamahir0.dev-kit"
+  }
+}
