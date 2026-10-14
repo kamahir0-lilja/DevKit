@@ -14,7 +14,7 @@ Development toolkit, package creator, and templates for Lilja Unity packages.
 Unity Editorの **Package Manager > [+] > Add package from git URL...** に以下を入力します：
 
 ```text
-https://github.com/kamahir0/DevKit.git?path=/Packages/com.kamahir0.dev-kit
+https://github.com/kamahir0-lilja/DevKit.git?path=/Packages/com.kamahir0.dev-kit
 ```
 
 特定のバージョンを指定する場合は、末尾にタグを付加してください（例: `#vcom.kamahir0.dev-kit`）。
@@ -26,7 +26,7 @@ https://github.com/kamahir0/DevKit.git?path=/Packages/com.kamahir0.dev-kit
 ```json
 {
   "dependencies": {
-    "com.kamahir0.dev-kit": "https://github.com/kamahir0/DevKit.git?path=/Packages/com.kamahir0.dev-kit"
+    "com.kamahir0.dev-kit": "https://github.com/kamahir0-lilja/DevKit.git?path=/Packages/com.kamahir0.dev-kit"
   }
 }
 ```

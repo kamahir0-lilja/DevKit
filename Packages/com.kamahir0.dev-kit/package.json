@@ -14,7 +14,7 @@
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/kamahir0/DevKit.git",
+    "url": "https://github.com/kamahir0-lilja/DevKit.git",
     "directory": "Packages/com.kamahir0.dev-kit"
   }
 }

@@ -279,7 +279,7 @@ namespace Lilja.DevKit.PackageManagement
 
             // OrganizationName（Githubのユーザー名/Org名と一致すると仮定）を使用してURLを構築
             // RepositoryNameは現状 "Lilja" 固定だが、必要ならこれもパラメータ化検討
-            string baseUrl = $"https://github.com/{parameters.OrganizationName}/Lilja/blob/main";
+            string baseUrl = $"https://github.com/kamahir0-lilja/{parameters.DisplayName}/blob/main";
             string licenseUrl = $"{baseUrl}/LICENSE";
             string docUrl = $"{baseUrl}/{relativePath}/README.md";
 
