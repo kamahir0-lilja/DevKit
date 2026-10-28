@@ -8,9 +8,8 @@
     "url": "https://github.com/kamahir0"
   },
   "description": "Development toolkit, package creator, and templates for Lilja Unity packages.",
-  "documentationUrl": "https://github.com/kamahir0/Lilja/blob/main/lilja-packages/lilja.dev-kit/README.md",
-  "licensesUrl": "https://github.com/kamahir0/Lilja/blob/main/LICENSE",
-  "changelogUrl": "https://github.com/kamahir0/Lilja/blob/main/lilja-packages/lilja.dev-kit/CHANGELOG.md",
+  "documentationUrl": "https://github.com/kamahir0-lilja/DevKit/blob/main/README.md",
+  "licensesUrl": "https://github.com/kamahir0-lilja/DevKit/blob/main/Packages/com.kamahir0.dev-kit/LICENSE",
   "dependencies": {},
   "repository": {
     "type": "git",
